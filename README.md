@@ -1,7 +1,7 @@
 # E-commerce
 Demo link:
 <br>
-https://mash159.github.io/SEO/
+https://mash159.github.io/E-commerce/
 <br>
 Full website built using:
 <br>
